@@ -1,0 +1,36 @@
+body
+{
+    background-image: url("img_tree.png");
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed;
+}
+
+<head>
+	<link rel="stylesheet" type="text/css" href="mystyles.css" media="screen" />
+<head>
+
+http://www.hdwallpapersnew.net/wp-content/uploads/2015/01/beautiful-morning-dew-best-hd-new-wide-wallpapers-free-download.jpg
+
+https://charliegatesphoto.files.wordpress.com/2012/03/dew1.jpg
+
+https://wallpaperscraft.com/image/grass_moisture_dew_drops_morning_17514_3840x1200.jpg
+
+<style type="text/css">
+	<!--
+		body { 
+		background-image: url(http://www.hdwallpapersnew.net/wp-content/uploads/2015/01/beautiful-morning-dew-best-hd-new-wide-wallpapers-free-download.jpg); 
+		background-repeat: no-repeat; 
+		}
+	-->
+	</style>
+
+
+<img src="http://www.hdwallpapersnew.net/wp-content/uploads/2015/01/beautiful-morning-dew-best-hd-new-wide-wallpapers-free-download.jpg" alt="background" width=1250 height=580>
+		</div>
+
+
+
+dew
+
+boost

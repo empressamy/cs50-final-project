@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+
+body
+{
+    background-image: url("img_tree.png");
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed;
+}
+
+<head>
+	<link rel="stylesheet" type="text/css" href="mystyles.css" media="screen" />
+<head>
