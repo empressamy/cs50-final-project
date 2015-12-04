@@ -17,7 +17,7 @@ fieldset {
 
 .username {
 	position: absolute;
-	top:35%;
+	top:40%;
 	left:50%;
 	transform: translate(-50%, -50%);
 	color: white;
@@ -26,26 +26,17 @@ fieldset {
 
 .password {
 	position: absolute;
-	top:45%;
+	top:50%;
 	left:50%;
 	transform: translate(-50%, -50%);
 	color: white;
 	text-align: center;
 }
 
-.confirmation {
+.login {
 	position: absolute;
-	top:55%;
+	top:60%;
 	left:50%;
-	transform: translate(-50%, -50%);
-	color: white;
-	text-align: center;
-}
-
-.sign-up {
-	position: absolute;
-	top: 65%;
-	left: 50%;
 	transform: translate(-50%, -50%);
 	color: white;
 	text-align: center;
