@@ -33,10 +33,19 @@ fieldset {
 	text-align: center;
 }
 
-.login {
+.log-in {
 	position: absolute;
 	top:60%;
 	left:50%;
+	transform: translate(-50%, -50%);
+	color: white;
+	text-align: center;
+}
+
+.sign-up {
+	position: absolute;
+	top: 65%;
+	left: 50%;
 	transform: translate(-50%, -50%);
 	color: white;
 	text-align: center;

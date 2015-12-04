@@ -51,6 +51,15 @@ fieldset {
 	text-align: center;
 }
 
+.log-in {
+	position: absolute;
+	top: 70%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	color: white;
+	text-align: center;
+}
+
 p {
 	margin: 0;
 	font-size: 2rem;
