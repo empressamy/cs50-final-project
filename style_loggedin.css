@@ -29,6 +29,7 @@ textarea {
     -moz-box-shadow: none;
     box-shadow: none;
 }
+
 .resources {
 	position: absolute;
 	top:1%;
@@ -38,10 +39,10 @@ textarea {
 	text-align: right;
 }
 
-.signup {
+.history {
 	position: absolute;
 	top:1%;
-	right:15%;
+	right:18%;
 	transform: translate(50%, 50%);
 	color: white;
 	text-align: right;
@@ -70,11 +71,6 @@ h1 {
 	margin: 0;
 	font-size: 8rem;
 	white-space: nowrap;
-}
-
-h2 {
-	text-transform: uppercase;
-	font-size: 5rem;
 }
 
 p {
