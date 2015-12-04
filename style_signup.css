@@ -4,13 +4,13 @@ body {
 	font-family: 'Source Sans Pro', sans-serif;
 }
 
-header {
+fieldset {
 	background:
 		linear-gradient(
 			rgba(0, 0, 0, 0.1),
 			rgba(0, 0, 0, 0.1)
 		),
-		url(https://charliegatesphoto.files.wordpress.com/2012/03/dew1.jpg);
+		url(http://www.wallpaper4me.com/images/wallpapers/lavendersunshine-543421.jpeg);
 	background-size: cover;
 	height: 100vh;
 }
