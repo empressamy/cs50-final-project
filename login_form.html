@@ -1,15 +1,23 @@
-<form action="login.php" method="post">
+<!doctype html>
+<html lang="en">
+    <head>
+       <meta charset="UTF-8">
+       <title>Sign-up</title>
+       <link rel="stylesheet" type="text/css" href=style_signup.css>
+       <link href=’http://fonts.googleapis.com/css?family=Droid+Sans’ rel=’stylesheet’ type=’text/css’>
+    </head>
+
     <fieldset>
-        <div class="form-group">
-            <input autocomplete="off" autofocus class="form-control" name="username" placeholder="Username" type="text"/>
+        <div class="username">
+            <p>username</p><input autocomplete="off" autofocus class="form-control" name="username" placeholder="              username" type="text"/>
         </div>
-        <div class="form-group">
-            <input class="form-control" name="password" placeholder="Password" type="password"/>
+        <div class="password">
+            <p>password</p><input class="form-control" name="password" placeholder="               password" type="password"/>
         </div>
-        <div class="form-group">
+        <div class="confirmation">
             <button class="btn btn-default" type="submit">
                 <span aria-hidden="true" class="glyphicon glyphicon-log-in"></span>
-                Log In
+                log in
             </button>
         </div>
     </fieldset>
@@ -17,3 +25,4 @@
 <div>
     or <a href="register.php">register</a> for an account
 </div>
+</html>

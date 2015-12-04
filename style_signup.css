@@ -15,36 +15,36 @@ fieldset {
 	height: 100vh;
 }
 
-.resources {
+.username {
 	position: absolute;
-	top:1%;
-	left:-6.5%;
-	transform: translate(50%, 50%);
+	top:32%;
+	left:50%;
+	transform: translate(-50%, -50%);
 	color: white;
-	text-align: right;
+	text-align: center;
 }
 
-.signup {
+.password {
 	position: absolute;
-	top:1%;
-	right:15%;
-	transform: translate(50%, 50%);
+	top:42%;
+	left:50%;
+	transform: translate(-50%, -50%);
 	color: white;
-	text-align: right;
+	text-align: center;
 }
 
-.login {
+.confirmation {
 	position: absolute;
-	top:1%;
-	right:6%;
-	transform: translate(50%, 50%);
+	top:52%;
+	left:50%;
+	transform: translate(-50%, -50%);
 	color: white;
-	text-align: right;
+	text-align: center;
 }
 
-.title {
+.sign-up {
 	position: absolute;
-	top: 50%;
+	top: 62%;
 	left: 50%;
 	transform: translate(-50%, -50%);
 	color: white;
